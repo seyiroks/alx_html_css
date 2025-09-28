@@ -43,3 +43,8 @@ aside {
   overflow-y: auto;
   background: #f9f9f9;
 }
+
+.logo {
+  font-size: 2rem;  /* bigger than normal text */
+  margin-right: 15px;
+  color: #ff9900;   /* orange star */
