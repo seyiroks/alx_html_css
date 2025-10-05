@@ -29,7 +29,7 @@ Fonts used in the design:
 index.html # Main HTML file (landing page)
 ├── styles.css # Main CSS file
 ├── README.md # Project documentation
-└── images/ # Assets (logos, icons, photos, svgs)
+├── images/ # Assets (logos, icons, photos, svgs)
 
 
 ---
