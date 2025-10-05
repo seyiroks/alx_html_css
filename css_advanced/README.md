@@ -14,7 +14,8 @@ The goal is to apply semantic HTML and prepare the page for styling with CSS (ba
 ---
 
 ## 🛠️ Technologies
-- **HTML5**  
+- **HTML5**
+- **CSS**   
 - **Font Awesome** (for social and rating icons)  
 - **Figma** (for design reference)  
 
@@ -26,6 +27,7 @@ Fonts used in the design:
 
 ## 📂 Project Structure
 index.html # Main HTML file (landing page)
+├── styles.css # Main CSS file
 ├── README.md # Project documentation
 └── images/ # Assets (logos, icons, photos, svgs)
 
